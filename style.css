@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.skip{
+    color: orange;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+}
+.first-part{
+    
+}
